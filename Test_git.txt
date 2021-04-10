@@ -6,3 +6,9 @@ Add new students:
 Cathy
 Paul
 John
+
+# Adding more students:
+Moses
+Jackie
+Tommy
+David
